@@ -27,9 +27,3 @@ API Docs
 
 .. automodule:: prebooking_data.ext
    :members:
-
-Views
------
-
-.. automodule:: prebooking_data.views
-   :members:

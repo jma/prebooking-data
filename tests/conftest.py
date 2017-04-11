@@ -62,8 +62,6 @@ from prebooking_data.dojson import prebooking
 """Test fixtures."""
 
 
-
-
 @pytest.yield_fixture()
 def instance_path():
     """Temporary instance path."""
