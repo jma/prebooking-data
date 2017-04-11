@@ -93,6 +93,9 @@ setup(
         'invenio_i18n.translations': [
             'messages = prebooking_data',
         ],
+        'dojson.cli.rule': [
+            'prebooking = prebooking_data.dojson:prebooking',
+        ]
         # TODO: Edit these entry points to fit your needs.
         # 'invenio_access.actions': [],
         # 'invenio_admin.actions': [],
